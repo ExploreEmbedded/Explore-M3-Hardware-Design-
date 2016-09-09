@@ -1,0 +1,472 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 9/8/2016 1:25:27 PM
+
+BeginCmp
+TimeStamp = /56BB67DE;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB694D;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BBB2B6;
+Reference = C3;
+ValeurCmp = 22pf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BBC2A3;
+Reference = C4;
+ValeurCmp = 22pf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D7B25F;
+Reference = C5;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D7B209;
+Reference = C6;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D7B1B4;
+Reference = C7;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D7B160;
+Reference = C8;
+ValeurCmp = 0.1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /57166BED;
+Reference = C9;
+ValeurCmp = 100uF, 1206;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /57160120;
+Reference = C10;
+ValeurCmp = 18pF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /571605B7;
+Reference = C11;
+ValeurCmp = 18pF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /5716E074;
+Reference = C12;
+ValeurCmp = 1uF;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BC61F6;
+Reference = C14;
+ValeurCmp = 0.1uf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D107C1;
+Reference = C15;
+ValeurCmp = 2.2uf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D46CC7;
+Reference = C16;
+ValeurCmp = 22pf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D47FA6;
+Reference = C18;
+ValeurCmp = 22pf;
+IdModule  = EE:C_0603New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB2F3E;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = EE:LED-0603_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /56DA74CE;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = EE:LED-0603_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /56DD2374;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = EE:LED-0603_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D2B6C6;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BBF273;
+Reference = L1;
+ValeurCmp = 600E;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C43A99;
+Reference = P1;
+ValeurCmp = CONN_02X05;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BED64D;
+Reference = P5;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BEE95C;
+Reference = P6;
+ValeurCmp = GPIO'S;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BEC3E1;
+Reference = P7;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB3112;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB51A1;
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C252C8;
+Reference = R3;
+ValeurCmp = 150E;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C255DD;
+Reference = R4;
+ValeurCmp = 100E;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C25E82;
+Reference = R5;
+ValeurCmp = 100E;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /57166B08;
+Reference = R6;
+ValeurCmp = 100K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715F84A;
+Reference = R7;
+ValeurCmp = 33R;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /57165209;
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C51374;
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C4F74F;
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C4FFD2;
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C503E1;
+Reference = R12;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C50BF1;
+Reference = R13;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /5715F9E4;
+Reference = R14;
+ValeurCmp = 33R;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /571638A0;
+Reference = R15;
+ValeurCmp = 1.5K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D60A56;
+Reference = R19;
+ValeurCmp = 1K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D6677E;
+Reference = R20;
+ValeurCmp = 10K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56DA7535;
+Reference = R21;
+ValeurCmp = 1K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56DD26DD;
+Reference = R22;
+ValeurCmp = 1K;
+IdModule  = EE:R_0603_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB34A9;
+Reference = SW1;
+ValeurCmp = SW_PUSH;
+IdModule  = EE:smd_push2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB51A7;
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = EE:smd_push2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BB020A;
+Reference = U1;
+ValeurCmp = LPC1769FBD100;
+IdModule  = Housings_QFP:LQFP-100_14x14mm_Pitch0.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /571618A2;
+Reference = U2;
+ValeurCmp = BSS84_SOT-23;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /56BE0151;
+Reference = U3;
+ValeurCmp = USB;
+IdModule  = EE:USB_Micro-B_SMD_NEW;
+EndCmp
+
+BeginCmp
+TimeStamp = /56D00EB1;
+Reference = U4;
+ValeurCmp = AP2112K;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D04852;
+Reference = U5;
+ValeurCmp = EE_Logo;
+IdModule  = Logo_New:Logo_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /56DFD50B;
+Reference = U6;
+ValeurCmp = 12Mhz_SMD;
+IdModule  = EE:12Mhz_SMD_4pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /5716B8FE;
+Reference = U7;
+ValeurCmp = RGB_4pin;
+IdModule  = EE:RGB_SMD_4pin_New;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D05473;
+Reference = U8;
+ValeurCmp = EE_Logo;
+IdModule  = Logo_New:Logo_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D032DF;
+Reference = U9;
+ValeurCmp = MountingHole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D03276;
+Reference = U10;
+ValeurCmp = MountingHole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D03214;
+Reference = U11;
+ValeurCmp = MountingHole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D02F24;
+Reference = U12;
+ValeurCmp = MountingHole;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D141C7;
+Reference = U13;
+ValeurCmp = OSH_Symbol;
+IdModule  = OSH_Logo:Logo_silk_OSHW_6x6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12D20;
+Reference = U14;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12172;
+Reference = U15;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12DE3;
+Reference = U16;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12D80;
+Reference = U17;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12E45;
+Reference = U18;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D13517;
+Reference = U19;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /57D12EAA;
+Reference = U20;
+ValeurCmp = PWM_Symbol;
+IdModule  = EE:pwm;
+EndCmp
+
+BeginCmp
+TimeStamp = /56E005A2;
+Reference = Y1;
+ValeurCmp = RTC Crystal;
+IdModule  = EE:SMD_RTC_Crstl;
+EndCmp
+
+EndListe
