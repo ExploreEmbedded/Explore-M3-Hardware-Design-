@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew "(2015-01-16 BZR 5376)-product")
+(kicad_pcb (version 4) (host pcbnew 4.0.1-stable)
 
   (general
     (links 165)
     (no_connects 0)
-    (area 39.867067 25.4024 73.071029 90.2936)
+    (area 43.524999 27.524999 69.175001 89.775001)
     (thickness 1.6)
     (drawings 74)
     (tracks 1749)
@@ -14,8 +14,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -2643,7 +2643,7 @@
   (gr_line (start 62.4 28.9) (end 63.7 27.6) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 67.1 86.7) (end 69.1 86.7) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_arc (start 45.7 86.6) (end 45.8 88.7) (angle 90) (layer Edge.Cuts) (width 0.15))
-  (gr_text v0.3 (at 56.4 36.7) (layer B.SilkS) (tstamp 57029796)
+  (gr_text v1.0 (at 56.4 36.7) (layer B.SilkS) (tstamp 57029796)
     (effects (font (size 0.762 0.762) (thickness 0.1905)) (justify mirror))
   )
   (gr_text 1 (at 49.2 79.8) (layer F.SilkS) (tstamp 57029797)
